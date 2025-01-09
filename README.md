@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Solivium Banner](docs/banner.png)
+![Solivium Banner](docs/solivium.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Solana](https://img.shields.io/badge/Solana-Blockchain-blue.svg)](https://solana.com)
